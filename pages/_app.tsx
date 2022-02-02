@@ -10,3 +10,10 @@ function MyApp({ Component, pageProps }: AppProps) {
 }
 
 export default MyApp
+
+
+{
+  /* 
+  TODO: Make responsive, search functionality, darkmode
+  */
+}
