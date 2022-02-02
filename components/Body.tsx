@@ -18,11 +18,11 @@ function Body() {
                 </div>
                 <input placeholder="Search.." className="bg-transparent focus:outline-none w-full h-full"></input>
             </form>
-            <div className="flex gap-2 p-2 h-14">
-                <button className="w-full hover:border-[1px] hover:shadow-sm focus:bg-slate-200 transition-all ease-in duration-200 bg-slate-100 rounded-md h-full">
+            <div className="flex gap-2 p-2 h-14 w-full justify-center items-center">
+                <button className="w-1/4 hover:border-[1px] hover:shadow-sm focus:bg-slate-200 transition-all ease-in duration-200 bg-slate-100 rounded-md h-full">
                     Google Search
                 </button>
-                <button className="w-full hover:border-[1px] hover:shadow-sm focus:bg-slate-200 transition-all ease-in duration-200 bg-slate-100 rounded-md h-full">
+                <button className="w-1/4 hover:border-[1px] hover:shadow-sm focus:bg-slate-200 transition-all ease-in duration-200 bg-slate-100 rounded-md h-full">
                     I&apos;m feeling lucky
                 </button>
             </div>
