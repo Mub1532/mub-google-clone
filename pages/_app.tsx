@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     <div className="fixed h-full w-full bg-white dark:bg-zinc-900 transition-all ease-in duration-500 ">
       <Head>
         {/*<!-- Primary Meta Tags -->*/}
-        <title>Frontend Development || Mub1532</title>
+        <title>Google Clone || Projects @ mubkhan.dev</title>
         <meta name="title" content="Google Clone || Projects @ mubkhan.dev" />
         <meta name="description" content="A Google clone, made by Mub" />
         <meta name="theme-color" content="#3e8fe6" />
