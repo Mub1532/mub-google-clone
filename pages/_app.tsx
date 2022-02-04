@@ -18,14 +18,14 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta property="og:url" content="https://google.mubkhan.dev" />
         <meta property="og:title" content="Frontend Development || Mub1532" />
         <meta property="og:description" content="A Google clone, made by Mub" />
-        <meta property="og:image" content="https://cdn.discordapp.com/avatars/518720512344457216/cabfd7d8b8af9cb5da61124bac1309da.png" />
+        <meta property="og:image" content="https://media.discordapp.net/attachments/937815101275254804/939263093039575050/unknown.png" />
 
         {/*<!-- Twitter -->*/}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://google.mubkhan.dev" />
         <meta property="twitter:title" content="Frontend Development || Mub1532" />
         <meta property="twitter:description" content="A Google clone, made by Mub" />
-        <meta property="twitter:image" content="https://cdn.discordapp.com/avatars/518720512344457216/cabfd7d8b8af9cb5da61124bac1309da.png" />
+        <meta property="twitter:image" content="https://media.discordapp.net/attachments/937815101275254804/939263093039575050/unknown.png" />
 
       </Head>
       <ThemeProvider attribute="class">
