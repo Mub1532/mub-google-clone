@@ -16,14 +16,14 @@ function MyApp({ Component, pageProps }: AppProps) {
         {/*<!-- Open Graph / Facebook -->*/}
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://google.mubkhan.dev" />
-        <meta property="og:title" content="Frontend Development || Mub1532" />
+        <meta property="og:title" content="Google Clone || Projects @ mubkhan.dev" />
         <meta property="og:description" content="A Google clone, made by Mub" />
         <meta property="og:image" content="https://media.discordapp.net/attachments/937815101275254804/939263093039575050/unknown.png" />
 
         {/*<!-- Twitter -->*/}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://google.mubkhan.dev" />
-        <meta property="twitter:title" content="Frontend Development || Mub1532" />
+        <meta property="twitter:title" content="Google Clone || Projects @ mubkhan.dev" />
         <meta property="twitter:description" content="A Google clone, made by Mub" />
         <meta property="twitter:image" content="https://media.discordapp.net/attachments/937815101275254804/939263093039575050/unknown.png" />
 
