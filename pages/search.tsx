@@ -39,7 +39,7 @@ function Search({ results }: any) {
                             alt={"Logo"}
                             width={"100%"}
                             height={"35%"}
-                            className='hover:opacity-80 cursor-pointer'
+                            className='hover:opacity-80 cursor-pointer hidden md:block'
                         />
                     </Link>
                     <form onSubmit={search} className="ml-4 md:ml-10 transition-all ease-out duration-500 w-full max-w-xl hover:shadow-lg shadow-md dark:text-white dark:shadow-zinc-700 dark:border-zinc-600 h-full border-[1px] border-slate-200 flex gap-2 p-2 md:p-3 rounded-full">
