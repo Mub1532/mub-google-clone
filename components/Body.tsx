@@ -40,8 +40,8 @@ function Body() {
                 <button onClick={search} className="h-fit p-2 w-1/4 min-w-fit text-xs sm:text-sm lg:text-base  hover:border-[1px] hover:shadow-sm focus:bg-slate-200 transition-all ease-in duration-200 bg-slate-100 dark:bg-zinc-800 dark:text-white dark:border-slate-700 dark:focus:border-slate-700 dark:focus:border-[1px] dark:focus:bg-zinc-800 dark:hover:bg-zinc-900 rounded-md">
                     Google Search
                 </button>
-                <button className="h-fit p-4 w-1/4 min-w-fit text-xs sm:text-sm lg:text-base  hover:border-[1px] hover:shadow-sm focus:bg-slate-200 transition-all ease-in duration-200 bg-slate-100 dark:bg-zinc-800 dark:text-white dark:border-slate-700 dark:focus:border-slate-700 dark:focus:border-[1px] dark:focus:bg-zinc-800 dark:hover:bg-zinc-900 rounded-md">
-                    I&apos;m feeling lucky
+                <button onClick={() => { window.location.replace("https://www.youtube.com/watch?v=xvFZjo5PgG0?autoplay=1") }} className="h-fit p-2 px-4 w-1/4 min-w-fit text-xs sm:text-sm lg:text-base  hover:border-[1px] hover:shadow-sm focus:bg-slate-200 transition-all ease-in duration-200 bg-slate-100 dark:bg-zinc-800 dark:text-white dark:border-slate-700 dark:focus:border-slate-700 dark:focus:border-[1px] dark:focus:bg-zinc-800 dark:hover:bg-zinc-900 rounded-md">
+                    I&apos;m feeling lucky (Click for gift)
                 </button>
             </div>
         </div>
