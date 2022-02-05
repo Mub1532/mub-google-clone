@@ -9,7 +9,7 @@ function Pages() {
 
     return <div className='flex space-x-4 justify-between w-1/4'>
         {resultStart >= 1 && (
-            <Link href={`/search?q=${Router.query.q}&page=${resultStart + 1}`} passHref>
+            <Link href={`/search?q=${Router.query.q}&page=${resultStart - 1}`} passHref>
                 <div className='cursor-pointer'>
                     Previous
                 </div>
