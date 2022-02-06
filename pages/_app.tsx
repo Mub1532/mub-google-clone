@@ -1,6 +1,7 @@
 import { ThemeProvider } from 'next-themes';
 import { AppProps } from "next/app";
 import Head from "next/head";
+import NextNProgress from 'nextjs-progressbar';
 import '../styles/globals.css';
 
 function MyApp({ Component, pageProps }: AppProps) {
@@ -33,6 +34,7 @@ function MyApp({ Component, pageProps }: AppProps) {
 
       </Head>
       <ThemeProvider attribute="class" defaultTheme='light'>
+        <NextNProgress color='#3759ec' />
         <Component {...pageProps} />
       </ThemeProvider>
     </div>
