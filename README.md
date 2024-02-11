@@ -1,6 +1,6 @@
 <h3>This project was made using, Tailwind CSS, Next.JS and Google Search API</h3>
 
-A live version of this can be found at https://google.mubkhan.dev (No longer hosted)
+A live version of this can be found at https://mub-google-clone.vercel.app/
 
 ## Running Locally
 
